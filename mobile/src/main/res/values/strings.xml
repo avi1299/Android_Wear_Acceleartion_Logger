@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Test 2</string>
+    <string name="hello_world_text">Lets do this now!</string>
+    <string name="collect_data">Collect Data</string>
+</resources>
